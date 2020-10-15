@@ -73,7 +73,7 @@ var form2 = anime({
   ],
   easing: "easeInOutQuart",
 });
-document.querySelector(".thirdlist2'").onclick = form2.play;
+document.querySelector(".thirdlist2").onclick = form2.play;
 
 
 
